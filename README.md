@@ -1,3 +1,3 @@
-# vanilia-javascript
+# vanillia-javascript
 
 Vanilla JavaScript 

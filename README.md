@@ -1,3 +1,3 @@
 # vanillia-javascript
 
-Vanilla JavaScript 
+Vanilla JavaScript & Es6
